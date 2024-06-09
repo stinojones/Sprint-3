@@ -106,9 +106,13 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here:
+
+https://github.com/stinojones/Sprint-3
 
 2. Put your YouTube link for your code walkthrough and demo video here:
+
+https://youtu.be/MGtjpvSlk04
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
@@ -124,10 +128,13 @@ This section should be filled out at the end of the Sprint and submitted.
 
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
 
+I Stook with c ++ yay
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|       6 hours     |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
+I think not being as excited for this sprint made me not work on it as much. And the fact that it wasn't related for the team project that I've been working on either
