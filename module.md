@@ -92,14 +92,14 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|  May 28  |    2pm   |   TP   |  Leaderboard fixes                         |   1 hour    |
+|  May 30  |    2pm   |   TP   |  Heat Map fixes                            |   1 hour    |
+|  June 4  |   1:30pm |   TP   |  nickname functionality                    |   2 hours   |
+|  June 4  |   8:00pm |   IM   |  tutorials on c++/starting the ide stuff   |   2 hours   |
+|  June 5  |   9:00pm |   IM   |  Following Bro. Macbeths tutorial          |   2 hours   |
+|  June 6  |   9:00pm |   IM   |  Following Bro. Macbeths tutorial w. fixes |   2 hours   |
 
-_Note: Add more rows as needed._
+
 
 
 ## Part 3 - Module Results
@@ -114,11 +114,11 @@ This section should be filled out at the end of the Sprint and submitted.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |  yes   |
+|Did you complete all the unique requirements for the module?| I think|
+|Did you write at least 100 lines of code?                   |  yes   |
+|Did you fully complete the readme.md file?                  |  yes   |
+|Did you put the readme.md file in GitHub in the top folder? |  yes   |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
